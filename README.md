@@ -5,19 +5,23 @@
 <h2 align = "center">Hello World!!!👋<h2> 
 
 <h3 align = "center">
-My name is Constantine Artemiou , or as I like to call myself <a href = "" target = "_blank" rel = "noreferrer">ConstArt<a>.
+My name is Constantine Artemiou, or shortly <a href = "" target = "_blank" rel = "noreferrer">ConstArt<a>.
 <h3>
+
+<h2 align = "center">
+I am an undergraduate student at the University of Piraeus.
+
+I love exploring new ideas about computers and mathematics🔢, and how they can be applied in a highly aesthetic way! I am also incredibly attracted to the field of construction, the main one being the engineering of robotic systems🤖, and programming them to achieve ambitious results-functions!<h2>
+
+## I'm currently working on
+I am just working on personal pursuits-interests, related to graphic programming🎨💻.
 
 
 <!--
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-fjsldkfjds
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
