@@ -13,13 +13,16 @@ I am an undergraduate student at the University of Piraeus.
 
 I love exploring new ideas about computers and mathematics🔢, and how they can be applied in a highly aesthetic way! I am also incredibly attracted to the field of construction, the main one being the engineering of robotic systems🤖, and programming them to achieve ambitious results-functions!<h2>
 
-## I'm currently working on:
-- personal pursuits related to graphic programming🎨💻.
+## 🛠️ Current work:
+- Computer graphics🎨💻
 
-### 🛠️ Languages
+## ⚙️ Technical skills:
 - Python
 - Java
 - C++
+
+### 🤝 Connect with me:
+<a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> Instagram <a>
 
 <!--
 - 🌱 I’m currently learning ...
