@@ -8,10 +8,11 @@
 I'm Constantine Artemiou [<a href = "" target = "_blank" rel = "noreferrer">ConstArt<a>].
 <h3>
 
-<h2 align = "center">
+## 🧑‍💻 About me:
+<h3 align = "center">
 I am an undergraduate student at the University of Piraeus.
 
-I love exploring new ideas about computers and mathematics🔢, and how they can be applied in a highly aesthetic way! I am also incredibly attracted to the field of construction, the main one being the engineering of robotic systems🤖, and programming them to achieve ambitious results-functions!<h2>
+I love exploring new ideas about computers and mathematics🔢, and how they can be applied in a highly aesthetic way! I am also incredibly attracted to the field of construction, the main one being the engineering of robotic systems🤖, and programming them to achieve ambitious results-functions!<h3>
 
 ## 🛠️ Current work:
 - Computer graphics🎨💻
@@ -29,6 +30,5 @@ I love exploring new ideas about computers and mathematics🔢, and how they can
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
