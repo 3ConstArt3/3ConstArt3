@@ -1,7 +1,7 @@
 <h2 align = "center">Hello World!!!👋<h2> 
 
 <p align = "center">
-<img width = "780" height = "360" src="https://github.com/3ConstArt3/3ConstArt3/assets/114258174/5308df77-f55d-4f9b-8167-ce69515e2f82" alt="MathBanner">
+<img width = "810" height = "390" src="https://github.com/3ConstArt3/3ConstArt3/assets/114258174/5308df77-f55d-4f9b-8167-ce69515e2f82" alt="MathBanner">
 </p>
 
 ## 📝 About me:
