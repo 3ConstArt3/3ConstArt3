@@ -21,8 +21,8 @@ I love exploring new ideas about computers and mathematics🔢, and how they can
 - Java
 - C++
 
-### 🤝 Connect with me:
-<a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> Instagram <a>
+## 🤝 Connect with me:
+- <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> Instagram <a>
 
 <!--
 - 🌱 I’m currently learning ...
