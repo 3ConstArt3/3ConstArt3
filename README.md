@@ -1,12 +1,12 @@
 <h2 align = "center">Hello World!!!👋<h2> 
 
 <p align = "center">
-<img width = "690" height = "360" src="https://github.com/3ConstArt3/3ConstArt3/assets/114258174/5308df77-f55d-4f9b-8167-ce69515e2f82" alt="MathBanner">
+<img width = "780" height = "360" src="https://github.com/3ConstArt3/3ConstArt3/assets/114258174/5308df77-f55d-4f9b-8167-ce69515e2f82" alt="MathBanner">
 </p>
 
 ## 📝 About me:
 
-🎓 My name is Constantine Artemiou [**<a href = "">ConstArt<a>**]. I'm an undergraduate student at the University of Piraeus in Athens, **Greece**.
+🎓 My name is Constantine Artemiou [**<a href = "">ConstArt<a>**]. I'm an undergraduate student at the **University of Piraeus** in Athens, **Greece**.
 
 🧑‍💻 I **love** exploring new ideas about **Computers** & **Mathematics**, as well as their direct applications in the field of aesthetics & everyday life! I've discovered some really amazing things in these fields, especially in the sector of **Fractals**.
 
