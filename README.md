@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <p align = "center">
 
-<img width = "720" height = "300" src="https://github.com/3ConstArt3/3ConstArt3/assets/114258174/5308df77-f55d-4f9b-8167-ce69515e2f82" alt="MathBanner">
+<img width = "690" height = "360" src="https://github.com/3ConstArt3/3ConstArt3/assets/114258174/5308df77-f55d-4f9b-8167-ce69515e2f82" alt="MathBanner">
 
 </p>
 
