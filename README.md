@@ -13,9 +13,13 @@ I am an undergraduate student at the University of Piraeus.
 
 I love exploring new ideas about computers and mathematics🔢, and how they can be applied in a highly aesthetic way! I am also incredibly attracted to the field of construction, the main one being the engineering of robotic systems🤖, and programming them to achieve ambitious results-functions!<h2>
 
-## I'm currently working on
-I am just working on personal pursuits-interests, related to graphic programming🎨💻.
+## I'm currently working on:
+- personal pursuits related to graphic programming🎨💻.
 
+### 🛠️ Languages
+- Python
+- Java
+- C++
 
 <!--
 - 🌱 I’m currently learning ...
