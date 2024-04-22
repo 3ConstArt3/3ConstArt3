@@ -13,13 +13,8 @@
 </p>
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=🧑‍💻&20About%20me&fontSize=30&animation=fadeIn&fontColor=3d675ac3&stroke=3d675ac3&strokeWidth=3" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=About%20me%20💡&fontSize=30&animation=fadeIn&fontColor=3d675ac3&stroke=3d675ac3&strokeWidth=3" />
 </h2>
-
-
-
-
-
 
 ```yaml
 name: Constantine Artemiou[ConstArt]
