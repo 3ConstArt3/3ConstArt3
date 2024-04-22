@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=Connect%20with%20me%20!&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=Connect%20with%20me%20!&fontSize=30&animation=fadeIn&fontColor=c5d1ded1&stroke=c5d1ded1&strokeWidth=3" />
 </h2>
 
 <p align="center">
