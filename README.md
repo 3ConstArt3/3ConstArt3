@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=90&section=header&text=Let's%20connect%20and&20have%20a%20chat!&fontSize=21&animation=fadeIn&fontColor=#c5d1de1f&stroke=#c5d1de1f&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=60&section=header&text=Let's%20connect%20and%20have%20a%20chat!&fontSize=21&animation=fadeIn&fontColor=#c5d1de1f&stroke=#c5d1de1f&strokeWidth=2" />
 </p>
 
 <p align="center">
