@@ -61,6 +61,10 @@ technicalSkills:
 currentStudies: ["WebDev, Graphics, "Math"]
 ```
 
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer">
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </p>
