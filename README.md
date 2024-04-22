@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&section=header&text=Hello%20World!!!&fontSize=69&fontAlignY=42&animation=twinkling&fontColor=#c5d1de1f&stroke=#c5d1de1f&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&section=header&text=Hello%20World!!!&fontSize=69&fontAlignY=48&animation=twinkling&fontColor=#c5d1de1f&stroke=#c5d1de1f&strokeWidth=2" />
 </p>
 
-<h1 align="center">
-  Let's connect && have a chat!💬
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=90&section=header&text=Let's%20connect%20and&20have%20a%20chat!&fontSize=21&animation=fadeIn&fontColor=#c5d1de1f&stroke=#c5d1de1f&strokeWidth=2" />
+</p>
 
 <p align="center">
     <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> 
