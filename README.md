@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&section=header&text=Hello%20World!!!&fontSize=72&textBg=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=210&section=header&text=Hello%20World!!!&fontSize=72&animation=twinkling" />
 </p>
 
 <h1 align="center">
