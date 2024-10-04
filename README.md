@@ -18,7 +18,7 @@
       <a>
     </td>
     <td align="center" width="96">
-      <a href = "#" alt = "const_art_sc | LinkedIn" target = "_blank"> 
+      <a href = "https://www.linkedin.com/in/const-art-727206331/" alt = "const_art_sc | LinkedIn" target = "_blank"> 
       <img height="60" src="images/linkedin.png">
       <a>
     </td>
