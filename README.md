@@ -15,12 +15,12 @@
     <td align="center" width="96">
       <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> 
       <img height="60" src="images/instagram.png">
-      <a>
+      <a><br>Instagram
     </td>
     <td align="center" width="96">
       <a href = "https://www.linkedin.com/in/const-art-727206331/" alt = "const_art_sc | LinkedIn" target = "_blank"> 
       <img height="60" src="images/linkedin.png">
-      <a>
+      <a><br>LinkedIn
     </td>
   </tr>
 </table>
