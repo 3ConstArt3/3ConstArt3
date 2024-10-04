@@ -29,9 +29,34 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="images/c-.png" alt="icon" width="54" height="54" />
+        <img src="images/python.png" alt="PythonLogo" width="54" height="54" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="images/c-.png" alt="C++Logo" width="54" height="54" />
       <br>C++
     </td>
+    <td align="center" width="96">
+        <img src="images/java.png" alt="JavaLogo" width="54" height="54" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="images/c-sharp.png" alt="C#Logo" width="54" height="54" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="images/html-5.png" alt="icon" width="54" height="54" />
+      <br>Html
+    </td>
+    <td align="center" width="96">
+        <img src="images/css-3.png" alt="icon" width="54" height="54" />
+      <br>Css
+    </td>
+    <td align="center" width="96">
+        <img src="images/java-script.png" alt="icon" width="54" height="54" />
+      <br>JavaScript
+    </td>
+  </tr>
 </table>
 
 ```yaml
