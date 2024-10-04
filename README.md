@@ -66,6 +66,10 @@ currentStudies:
 ]
 ```
 
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=footer">
+</p>
+
 <h2>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Technical%20Skills%20⚙️&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
