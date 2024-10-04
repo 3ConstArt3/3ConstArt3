@@ -36,43 +36,20 @@
 ```yaml
 name: Constantine Artemiou[ConstArt]
 
-location: Athens, Greece
-currentJob: Undergraduate Student
+location: Athens || Chalkis, Greece
+currentJob: Undergraduate CS Student
 university: University of Piraeus
 
 mainInterests:
-  [
-    "Computers",
-    "Computers",
-    "WebDev",
-    "AI | ML",
-    "Robotics",
-    "Graphics",
-    "GameDev"
-  ]
+  ["Graphics", "AI || ML", "Robotics", "DataScience", "Cloud", "WebDev"]
 
-sideHobbbies:
-  [
-    "Art",
-    "Math",
-    "Philosophy",
-    "Music",
-    "Poetry",
-    "Science"
-  ]
+sideHobbies: ["Science", "Puzzles", "Mathematics", "Philosophy", "Poetry"]
 
-technicalSkills:
-  [
-    "Python",
-    "Java",
-    "HTML | CSS | JS"
-  ]
-
-currentStudies: ["WebDev, Graphics, "Math"]
+currentStudies: ["Graphics", "AI || ML"]
 ```
 
 <h2>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Technologies%20Skills%20⚙️&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Technical%20Skills%20⚙️&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
 
 <table align = "center">
