@@ -29,7 +29,7 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table align = "center">
   <tr>
     <td align="center" width="96">
         <img src="images/python.png" alt="PythonLogo" width="60" height="60" />
