@@ -10,14 +10,20 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Connect%20with%20me%20📱&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
 
-<p align="center">
-    <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> 
-     <img height="60" src="images/instagram.png">
-    <a>
-    <a href = "#" alt = "const_art_sc | LinkedIn" target = "_blank"> 
-     <img height="60" src="images/linkedin.png">
-    <a>
-</p>
+<table align = "center">
+  <tr>
+    <td align="center" width="96">
+      <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> 
+      <img height="60" src="images/instagram.png">
+      <a>
+    </td>
+    <td align="center" width="96">
+      <a href = "#" alt = "const_art_sc | LinkedIn" target = "_blank"> 
+      <img height="60" src="images/linkedin.png">
+      <a>
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=footer">
@@ -26,8 +32,6 @@
 <h2>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=About%20me%20💡&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
-
-> Tools and technologies that I have worked with and am interested in
 
 <table align = "center">
   <tr>
