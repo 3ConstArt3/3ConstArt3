@@ -34,18 +34,36 @@
 </h2>
 
 ```yaml
-name: Constantine Artemiou[ConstArt]
+fullName: Constantine Artemiou[ConstArt]
 
-location: Athens || Chalkis, Greece
+location: Athens, Greece
 currentJob: Undergraduate CS Student
 university: University of Piraeus
 
 mainInterests:
-  ["Graphics", "AI || ML", "Robotics", "DataScience", "Cloud", "WebDev"]
+[
+  "Graphics",
+  "AI || ML",
+  "Robotics",
+  "DataScience",
+  "Cloud",
+  "WebDev"
+]
 
-sideHobbies: ["Science", "Puzzles", "Mathematics", "Philosophy", "Poetry"]
+sideHobbies:
+[
+  "Science",
+  "Puzzles",
+  "Mathematics",
+  "Philosophy",
+  "Poetry"
+]
 
-currentStudies: ["Graphics", "AI || ML"]
+currentStudies:
+[
+  "Graphics",
+  "AI || ML"
+]
 ```
 
 <h2>
