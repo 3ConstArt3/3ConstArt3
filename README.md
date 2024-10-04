@@ -34,7 +34,9 @@
 </h2>
 
 ```yaml
-fullName: Constantine Artemiou[ConstArt]
+firstname: Constantine
+surname: Artemiou
+nickname: ConstArt
 
 location: Athens, Greece
 currentJob: Undergraduate CS Student
