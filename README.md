@@ -18,7 +18,7 @@
       <a><br>Instagram
     </td>
     <td align="center" width="96">
-      <a href = "https://www.linkedin.com/in/const-art-727206331/" alt = "const_art_sc | LinkedIn" target = "_blank"> 
+      <a href = "https://www.linkedin.com/in/constantine-artemiou-727206331/" alt = "const_art_sc | LinkedIn" target = "_blank"> 
       <img height="60" src="images/linkedin.png">
       <a><br>LinkedIn
     </td>
@@ -38,33 +38,31 @@ firstname: Constantine
 surname: Artemiou
 nickname: ConstArt
 
-location: Athens, Greece
-currentJob: Undergraduate CS Student
-university: University of Piraeus
+location: Chalkida, Central Greece
+currentJob: CS Graduate Student
+education: University Of Piraeus
 
-mainInterests:
+mainHobbies:
 [
-  "Graphics",
-  "AI || ML",
-  "Robotics",
-  "DataScience",
-  "Cloud",
-  "WebDev"
+  "AI && ML",
+  "Data Science",
+  "Simulation",
+  "UI-UX Design",
+  "BackEnd",
+  "Robotics"
 ]
 
 sideHobbies:
 [
   "Science",
-  "Puzzles",
   "Mathematics",
-  "Philosophy",
-  "Poetry"
+  "Philosophy"
 ]
 
-currentStudies:
+currentWork:
 [
-  "Graphics",
-  "AI || ML"
+  "AI && ML",
+  "Data Science"
 ]
 ```
 
