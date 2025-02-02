@@ -34,35 +34,26 @@
 </h2>
 
 ```yaml
-firstname: Constantine
-surname: Artemiou
-nickname: ConstArt
+Fullname: Constantine Artemiou
+Nickname: ConstArt
 
-location: Chalkida, Central Greece
-currentJob: CS Graduate Student
-education: University Of Piraeus
+Location: Chalkida, Central Greece
+Education: University Of Piraeus
 
-mainHobbies:
+Interests:
 [
-  "AI && ML",
+  "Generative AI && ML",
+  "Data Visualization",
+  "Graphics Design",
   "Data Science",
-  "Simulation",
-  "UI-UX Design",
-  "BackEnd",
-  "Robotics"
+  "UI-UX Design"
 ]
 
-sideHobbies:
+SideHobbies:
 [
   "Science",
   "Mathematics",
   "Philosophy"
-]
-
-currentWork:
-[
-  "AI && ML",
-  "Data Science"
 ]
 ```
 
@@ -77,20 +68,12 @@ currentWork:
 <table align = "center">
   <tr>
     <td align="center" width="96">
-        <img src="images/python.png" alt="PythonLogo" width="60" height="60" />
+      <i class="fa-brands fa-python"></i>
       <br>Python
     </td>
     <td align="center" width="96">
         <img src="images/java.png" alt="JavaLogo" width="60" height="60" />
       <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="images/c-sharp.png" alt="C#Logo" width="60" height="60" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="images/c-.png" alt="C++Logo" width="60" height="60" />
-      <br>C++
     </td>
     <td align="center" width="96">
         <img src="images/html-5.png" alt="HtmlIcon" width="60" height="60" />
