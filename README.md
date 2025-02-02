@@ -58,8 +58,8 @@ Hobbies:
 
 CurrentWork:
 [
-  "Lexarithmos"
-  "GenPhilosopherAI",
+  "Lexarithmos",
+  "GenPhilosopherAI"
 ]
 ```
 
@@ -74,45 +74,45 @@ CurrentWork:
 <table align = "center">
   <tr>
     <td align="center" width="96">
-      <img src="images/skills/python.png" alt="Python" width="60" height="60" />
+      <img src="images/skills/languages/python.png" alt="Python" width="60" height="60" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="images/skills/java.png" alt="Java" width="60" height="60" />
+      <img src="images/skills/languages/java.png" alt="Java" width="60" height="60" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="images/skills/html.png" alt="Html" width="60" height="60" />
+      <img src="images/skills/languages/html.png" alt="Html" width="60" height="60" />
       <br>Html
     </td>
     <td align="center" width="96">
-      <img src="images/skills/css.png" alt="Css" width="60" height="60" />
+      <img src="images/skills/languages/css.png" alt="Css" width="60" height="60" />
       <br>Css
     </td>
     <td align="center" width="96">
-      <img src="images/skills/js.png" alt="Javascript" width="60" height="60" />
+      <img src="images/skills/languages/js.png" alt="Javascript" width="60" height="60" />
       <br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="images/skills/obsidian.png" alt="Obsidian" width="60" height="60" />
+      <img src="images/skills/environments/obsidian.png" alt="Obsidian" width="60" height="60" />
       <br>Obsidian
     </td>
     <td align="center" width="96">
-      <img src="images/skills/vscode.png" alt="VsCode" width="60" height="60" />
+      <img src="images/skills/environments/vscode.png" alt="VsCode" width="60" height="60" />
       <br>VsCode
     </td>
     <td align="center" width="96">
-      <img src="images/skills/pycharm.png" alt="PyCharm" width="60" height="60" />
+      <img src="images/skills/environments/pycharm.png" alt="PyCharm" width="60" height="60" />
       <br>PyCharm
     </td>
     <td align="center" width="96">
-      <img src="images/skills/processing.png" alt="Processing" width="60" height="60" />
+      <img src="images/skills/environments/processing.png" alt="Processing" width="60" height="60" />
       <br>Processing
     </td>
       <td align="center" width="96">
-      <img src="images/skills/gitdesktop.png" alt="GDesktop" width="60" height="60" />
+      <img src="images/skills/environments/gitdesktop.png" alt="GDesktop" width="60" height="60" />
       <br>GitDesktop
     </td>
   </tr>
