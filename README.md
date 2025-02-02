@@ -90,12 +90,30 @@ CurrentWork:
       <br>Css
     </td>
     <td align="center" width="96">
-      <img src="images/skills/js.png" alt="Js" width="60" height="60" />
+      <img src="images/skills/js.png" alt="Javascript" width="60" height="60" />
       <br>JavaScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="images/skills/obsidian.png" alt="Obs" width="60" height="60" />
+      <img src="images/skills/obsidian.png" alt="Obsidian" width="60" height="60" />
       <br>Obsidian
+    </td>
+    <td align="center" width="96">
+      <img src="images/skills/vscode.png" alt="VsCode" width="60" height="60" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img src="images/skills/pycharm.png" alt="PyCharm" width="60" height="60" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <img src="images/skills/processing.png" alt="Processing" width="60" height="60" />
+      <br>Processing
+    </td>
+      <td align="center" width="96">
+      <img src="images/skills/gitdesktop.png" alt="GDesktop" width="60" height="60" />
+      <br>GitDesktop
     </td>
   </tr>
 </table>
