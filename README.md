@@ -39,23 +39,24 @@ Profile:
   Nickname: ConstArt
   Role: Creative Coder & AI Explorer
   Location: Chalkis, Central Greece
-  Education: BSc Computer Science @ University of Piraeus
-  Motto: "Blending imagination, science and AI, into artistic digital creations."
+  Education: BSc in Computer Science - University of Piraeus
+  Motto: "Transforming imagination, science and AI into timeless digital creations."
 
 Interests:
   - 🤖 Generative AI & Machine Learning
   - 📊 Data Science & Visualization
-  - 🖼️ Graphics & Computational Art
-  - ✨ UI/UX Design
+  - 🖼️ Computational Art & Graphics
+  - ✨ UI/UX & Creative Design
 
 Hobbies:
-  - 🎨 Art
-  - 🔭 Science
+  - 🎨 Artistic Expression
+  - 🔭 Scientific Exploration
+  - 📚 Philosophical Thinking
 
 CurrentWork:
-  - 💡 AIQuoteGenerator -> A creative AI quote generator.
-  - 🔒 CodeGenerator -> An AI code encrypted generator.
-  - 📜 Lexarithmos -> Greek-Numbers transformer.
+  - 💡 AIQuoteGenerator → Generative AI for original aphorisms & wisdom.
+  - 🔒 CodeGenerator → Encrypted AI-driven code generation system.
+  - 📜 Lexarithmos → Digital transformer for Greek numeral systems.
 ```
 
 <p>
@@ -63,7 +64,7 @@ CurrentWork:
 </p>
 
 <h2>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Technical%20Skills%20⚙️&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Technical%20skills&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
 
 <table align = "center">
@@ -85,7 +86,7 @@ CurrentWork:
       <br>Css
     </td>
     <td align="center" width="96">
-      <img src="images/skills/languages/js.png" alt="Javascript" width="60" height="60" />
+      <img src="images/skills/languages/javascript.png" alt="Javascript" width="60" height="60" />
       <br>JavaScript
     </td>
   </tr>
