@@ -14,7 +14,7 @@
   <tr>
     <td align="center" width="96">
       <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> 
-      <img height="60" src="https://www.flaticon.com/free-icons/instagram">
+      <img height="60" src="images/social/instagram.png">
       <a><br>Instagram
     </td>
     <td align="center" width="96">
