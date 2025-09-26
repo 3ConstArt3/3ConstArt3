@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Hello%20World!!!&fontSize=69&fontAlignY=48&animation=twinkling&fontColor=c5d1ded1&stroke=c5d1ded1&strokeWidth=3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=270&section=header&text=Hi%20there!%20I'm%20ConstArt%20👋&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Generative+AI+Developer+🤖;Creative+Coder+%26+Designer+🎨;Data+Visualization+Enthusiast+📊" alt="Typing SVG" />
 </p>
 
 <p>
