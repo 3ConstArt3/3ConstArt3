@@ -1,18 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=270&section=header&text=Hi%20there!%20I'm%20ConstArt%20👋&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Generative+AI+Developer+🤖;Creative+Coder+%26+Designer+🎨;Data+Visualization+Enthusiast+📊" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hi%20there!%20I'm%20ConstArt&reversal=false&desc=A%20creative%20coder,%20blending%20AI%20and%20art%20into%20unique%20digital%20experiences.&fontSize=60&textBg=false&fontAlign=50&animation=twinkling&descSize=15&descAlignY=54&fontAlignY=39&strokeWidth=1"/>
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=footer">
 </p>
 
 <h2>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=Connect%20with%20me%20📱&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Connect%20with%20me&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
+
 
 <table align = "center">
   <tr>
