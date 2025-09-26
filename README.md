@@ -120,8 +120,11 @@ CurrentWork:
 
 ## 🚀 Featured Projects
 
-- [Lexarithmos](https://github.com/3ConstArt3/Lexarithmos) – _AI-powered cryptographic system_ 🔒
-- [GenPhilosopherAI](https://github.com/3ConstArt3/CodeGenerator) – _AI that generates philosophical aphorisms_ 📜
+```yaml
+  - [💡AIQuoteGenerator](https://github.com/3ConstArt3/AIQuoteGenerator) ->Generative AI for original aphorisms & wisdom.
+  - 🔒 CodeGenerator -> Encrypted AI-driven code generation system.
+  - 📜 Lexarithmos -> Digital transformer for Greek numeral systems.
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
