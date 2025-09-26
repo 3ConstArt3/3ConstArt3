@@ -114,14 +114,6 @@ CurrentWork:
   </tr>
 </table>
 
-<h2>
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Personality&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
-</h2>
-
-```yaml
-I see myself as a curious polymath artist, passionately seeking cosmic art and the discovery of universal truth.
-```
-
 <p>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer">
 </p>
