@@ -38,7 +38,7 @@ Profile:
   Fullname: Constantine Artemiou
   Nickname: ConstArt
   Role: Creative Coder & AI Explorer
-  Location: Chalkis, Central Greece
+  Location: Chalcis, Central Greece
   Education: BSc in Computer Science - University of Piraeus
   Motto: "Transforming imagination, science and AI into timeless digital creations."
 
