@@ -92,24 +92,24 @@ CurrentWork:
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="images/skills/environments/obsidian.png" alt="Obsidian" width="60" height="60" />
-      <br>Obsidian
-    </td>
-    <td align="center" width="96">
       <img src="images/skills/environments/vscode.png" alt="VsCode" width="60" height="60" />
       <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img src="images/skills/environments/obsidian.png" alt="Obsidian" width="60" height="60" />
+      <br>Obsidian
     </td>
     <td align="center" width="96">
       <img src="images/skills/environments/pycharm.png" alt="PyCharm" width="60" height="60" />
       <br>PyCharm
     </td>
     <td align="center" width="96">
-      <img src="images/skills/environments/processing.png" alt="Processing" width="60" height="60" />
-      <br>Processing
-    </td>
-      <td align="center" width="96">
       <img src="images/skills/environments/gitdesktop.png" alt="GDesktop" width="60" height="60" />
       <br>GitDesktop
+    </td>
+    <td align="center" width="96">
+      <img src="images/skills/environments/processing.png" alt="Processing" width="60" height="60" />
+      <br>Processing
     </td>
   </tr>
 </table>
