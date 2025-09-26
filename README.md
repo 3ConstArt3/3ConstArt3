@@ -118,6 +118,11 @@ CurrentWork:
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer">
 </p>
 
+## 🚀 Featured Projects
+
+- [Lexarithmos](https://github.com/3ConstArt3/Lexarithmos) – _AI-powered cryptographic system_ 🔒
+- [GenPhilosopherAI](https://github.com/3ConstArt3/CodeGenerator) – _AI that generates philosophical aphorisms_ 📜
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </p>
