@@ -30,37 +30,32 @@
 </p>
 
 <h2>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&text=About%20me%20💡&fontSize=30&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Information&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
 </h2>
 
 ```yaml
-Fullname: Constantine Artemiou
-Nickname: ConstArt
-
-Location: Chalkida, Central Greece
-Education: University Of Piraeus
+Profile:
+  Fullname: Constantine Artemiou
+  Nickname: ConstArt
+  Role: Creative Coder & AI Explorer
+  Location: Chalkis, Central Greece
+  Education: BSc Computer Science @ University of Piraeus
+  Motto: "Blending imagination, science and AI, into artistic digital creations."
 
 Interests:
-[
-  "Generative AI && ML",
-  "Data Visualization",
-  "Graphics Design",
-  "Data Science",
-  "UI-UX Design"
-]
+  - 🤖 Generative AI & Machine Learning
+  - 📊 Data Science & Visualization
+  - 🖼️ Graphics & Computational Art
+  - ✨ UI/UX Design
 
 Hobbies:
-[
-  "Science",
-  "Mathematics",
-  "Philosophy"
-]
+  - 🎨 Art
+  - 🔭 Science
 
 CurrentWork:
-[
-  "Lexarithmos",
-  "GenPhilosopherAI"
-]
+  - 💡 AIQuoteGenerator -> A creative AI quote generator.
+  - 🔒 CodeGenerator -> An AI code encrypted generator.
+  - 📜 Lexarithmos -> Greek-Numbers transformer.
 ```
 
 <p>
