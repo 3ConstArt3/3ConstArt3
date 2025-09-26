@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hi%20there!%20I'm%20ConstArt&reversal=false&desc=A%20creative%20coder,%20blending%20AI%20and%20art%20into%20unique%20digital%20experiences.&fontSize=60&textBg=false&fontAlign=50&animation=twinkling&descSize=15&descAlignY=54&fontAlignY=39&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=timeGradient&text=Hi%20there!%20I'm%20ConstArt&reversal=false&desc=A%20creative%20coder,%20blending%20AI%20and%20art%20into%20unique%20digital%20experiences.&fontSize=60&textBg=false&fontAlign=50&animation=twinkling&descSize=15&descAlignY=54&fontAlignY=39&strokeWidth=1"/>
 </p>
 
 <p>
@@ -114,18 +114,18 @@ CurrentWork:
   </tr>
 </table>
 
+<h2>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Personality&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
+</h2>
+
+```yaml
+I see myself as a curious polymath artist, passionately seeking cosmic art and the discovery of universal truth.
+```
+
 <p>
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer">
 </p>
 
-## 🚀 Featured Projects
-
-```yaml
-  - [💡AIQuoteGenerator](https://github.com/3ConstArt3/AIQuoteGenerator) ->Generative AI for original aphorisms & wisdom.
-  - 🔒 CodeGenerator -> Encrypted AI-driven code generation system.
-  - 📜 Lexarithmos -> Digital transformer for Greek numeral systems.
-```
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=148&color=timeGradient&section=footer&reversal=true" />
 </p>
