@@ -54,9 +54,10 @@ Hobbies:
   - 📚 Philosophical Thinking
 
 CurrentWork:
+  - 🌀 ComplexFractals → Creative renders of vivid fractals, built from complex-number math.
   - 💡 AIQuoteGenerator → Generative AI for original aphorisms & wisdom.
-  - 🔒 CodeGenerator → Encrypted AI-driven code generation system.
   - 📜 Lexarithmos → Digital transformer for Greek numeral systems.
+  - 🔒 CodeGenerator → Encrypted AI-driven code generation system.
 ```
 
 <p>
