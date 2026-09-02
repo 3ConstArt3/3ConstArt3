@@ -1,124 +1,54 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=timeGradient&text=Hi%20there!%20I'm%20ConstArt&reversal=false&desc=A%20creative%20coder,%20blending%20AI%20and%20art%20into%20unique%20digital%20experiences.&fontSize=60&textBg=false&fontAlign=50&animation=twinkling&descSize=15&descAlignY=54&fontAlignY=39&strokeWidth=1"/>
-</p>
+<div style="text-align: center;">
+
+  <img src="./assets/profile-hero.svg" alt="ConstArt — UI/UX Designer, Creative Developer, and Digital Artist" width="100%" />
+
+  ### UI/UX Designer&nbsp;·&nbsp;Creative Developer&nbsp;·&nbsp;Digital Artist
+
+  Designing expressive digital experiences where **visual identity**, **interaction**, and **code** meet.
+
+  [Selected Work](#selected-work)&nbsp;&nbsp;·&nbsp;&nbsp;[Development Tools](#development-tools)&nbsp;&nbsp;·&nbsp;&nbsp;[About Me](#about-me)&nbsp;&nbsp;·&nbsp;&nbsp;[Connect](#connect)
+
+</div>
+
+---
+
+## Selected Work
+
+---
+
+## Development Tools
+
+|             Area             |                Technologies & Tools               |
+| :--------------------------: | :-----------------------------------------------: |
+| Languages & Web Technologies |     `Python` · `Java` · `HTML` · `CSS` · `JS`     |
+|   Development Environments   | `PyCharm` · `Processing` · `VS Code` · `WebStorm` |
+|     Design & Visual Tools    |                 `Figma` · `Canva`                 |
+|  Workflow & Knowledge Tools  |     `ChatGPT` · `Obsidian` · `GitHub Desktop`     |
+
+---
+
+## About Me
+
+<p>I am a multidisciplinary creator from Greece who sees <strong>art, science, and technology</strong> as parts of the same continuous language. My main interests revolve around UI/UX, geometry, computational art, and artificial intelligence, fields that continually inform one another.</p>
+<p>I am also equally drawn to clarity and imagination, understanding how something works, how it feels, and what meaning it can carry. For me, technology is not an end in itself, but a creative material for turning abstract ideas into thoughtful and tangible experiences.</p>
+<p>My work is guided strongly by curiosity, experimentation, and a desire to contribute something meaningful, human, and enduring to the future.</p>
+
+---
+
+## Current Work
+
+<p>I am currently exploring <strong>Generative AI Art</strong> as a medium for speculative design and visual invention. My work envisions inventions, architectural systems, and objects for the future, developed through research, prompt design, and visual experimentation. Treating AI as a creative collaborator, I am building a visual archive that translates imagination and human needs into explorable concepts for future urban life.</p>
+
+---
+
+## Connect
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=footer">
+<a href="https://www.linkedin.com/in/constantine-artemiou-727206331/"><strong>LinkedIn</strong></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/3ConstArt3"><strong>GitHub</strong></a>
 </p>
 
-<h2>
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Connect%20with%20me&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
-</h2>
+<br />
 
-<table align = "center">
-  <tr>
-    <td align="center" width="96">
-      <a href = "https://www.instagram.com/const_art_sc/" alt = "const_art_sc | Instagram" target = "_blank"> 
-      <img height="60" src="images/social/instagram.png">
-      <a><br>Instagram
-    </td>
-    <td align="center" width="96">
-      <a href = "https://www.linkedin.com/in/constantine-artemiou-727206331/" alt = "const_art_sc | LinkedIn" target = "_blank"> 
-      <img height="60" src="images/social/linkedin.png">
-      <a><br>LinkedIn
-    </td>
-  </tr>
-</table>
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=footer">
-</p>
-
-<h2>
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Information&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
-</h2>
-
-```yaml
-Profile:
-  Fullname: Constantine Artemiou
-  Nickname: ConstArt
-  Role: Creative Coder & AI Explorer
-  Location: Chalcis, Central Greece
-  Education: BSc in Computer Science - University of Piraeus
-  Motto: "Transforming imagination, science and AI into timeless digital creations."
-
-Interests:
-  - 🤖 Generative AI & Machine Learning
-  - 📊 Data Science & Visualization
-  - 🖼️ Computational Art & Graphics
-  - ✨ UI/UX & Creative Design
-
-Hobbies:
-  - 🎨 Artistic Expression
-  - 🔭 Scientific Exploration
-  - 📚 Philosophical Thinking
-
-CurrentWork:
-  - 🌀 ComplexFractals → Creative renders of vivid fractals, built from complex-number math.
-  - 💡 AIQuoteGenerator → Generative AI for original aphorisms & wisdom.
-  - 📜 Lexarithmos → Digital transformer for Greek numeral systems.
-  - 🔒 CodeGenerator → Encrypted AI-driven code generation system.
-```
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=footer">
-</p>
-
-<h2>
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=45&color=gradient&text=Technical%20skills&reversal=false&fontSize=33&textBg=false&fontAlign=50&animation=scaleIn&fontColor=c5d1dec3&stroke=c5d1dec3" />
-</h2>
-
-<table align = "center">
-  <tr>
-    <td align="center" width="96">
-      <img src="images/skills/languages/python.png" alt="Python" width="60" height="60" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/languages/java.png" alt="Java" width="60" height="60" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/languages/html.png" alt="Html" width="60" height="60" />
-      <br>Html
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/languages/css.png" alt="Css" width="60" height="60" />
-      <br>Css
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/languages/javascript.png" alt="Javascript" width="60" height="60" />
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="images/skills/environments/vscode.png" alt="VsCode" width="60" height="60" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/environments/obsidian.png" alt="Obsidian" width="60" height="60" />
-      <br>Obsidian
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/environments/pycharm.png" alt="PyCharm" width="60" height="60" />
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/environments/gitdesktop.png" alt="GDesktop" width="60" height="60" />
-      <br>GitDesktop
-    </td>
-    <td align="center" width="96">
-      <img src="images/skills/environments/processing.png" alt="Processing" width="60" height="60" />
-      <br>Processing
-    </td>
-  </tr>
-</table>
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=148&color=timeGradient&section=footer&reversal=true" />
-</p>
+<p align="center"><em>Designer first. Artist by instinct. Developer by capability.</em></p>
