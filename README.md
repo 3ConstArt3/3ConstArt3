@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center" style="width: 600px;">
 
   <img src="./assets/profile-hero.svg" alt="ConstArt — UI/UX Designer, Creative Developer, and Digital Artist" width="100%" />
 
