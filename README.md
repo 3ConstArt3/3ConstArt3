@@ -26,11 +26,13 @@
       <h3><a href="https://github.com/3ConstArt3/BalanceSheet">01 | BalanceSheet</a></h3>
       <h4>Interface Design · Responsive Frontend</h4>
       <p>A clean financial dashboard focused on information hierarchy, legibility, and multi-year asset tracking.</p>
+      <h4><a href="https://github.com/3ConstArt3/BalanceSheet">View repository →</a></h4>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/3ConstArt3/ComplexFractals">02 | ComplexFractals</a></h3>
       <h4>Generative Art · Creative Coding</h4>
       <p>A visual system that transforms complex-number mathematics into evolving, color-driven compositions.</p>
+      <h4><a href="https://github.com/3ConstArt3/ComplexFractals">View repository →</a></h4>
     </td>
   </tr>
   <tr>
@@ -38,11 +40,13 @@
       <h3><a href="https://github.com/3ConstArt3/HyperSpace">03 | HyperSpace</a></h3>
       <h4>Computational Graphics · Interaction</h4>
       <p>An interactive Processing experiment that projects and rotates four-dimensional geometry into visible space.</p>
+      <h4><a href="https://github.com/3ConstArt3/HyperSpace">View repository →</a></h4>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/3ConstArt3/Lexarithmos">04 | Lexarithmos</a></h3>
       <h4>Research Tool · Python</h4>
       <p>A modular application for exploring numerical relationships and patterns within the Greek language.</p>
+      <h4><a href="https://github.com/3ConstArt3/Lexarithmos">View repository →</a></h4>
     </td>
   </tr>
 </table>
@@ -84,8 +88,6 @@
 <a id="about-me"></a>
 <h2 align="center">About Me</h2>
 
-<h3 align="center">A multidisciplinary creator connecting art, science, and technology.</h3>
-
 <p align="center">
   My main interests revolve around UI/UX, geometry, computational art, and artificial intelligence—<br />
   fields that continually inform one another.
@@ -108,8 +110,11 @@
 <h2 align="center">Current Work</h2>
 
 <p align="center">
-I am currently exploring <strong>Generative AI Art</strong> as a medium for speculative design and visual invention. My work envisions inventions, architectural systems, and objects for the future, developed through research, prompt design, and visual experimentation. Treating AI as a creative collaborator, I am building a visual archive that translates imagination and human needs into explorable concepts for future urban life.
+  My work envisions inventions, architectural systems, and objects for the future through research,<br />
+  prompt design, and visual experimentation. Treating AI as a creative collaborator, I am building<br />
+  a visual archive that translates imagination and human needs into explorable concepts for future urban life.
 </p>
+
 <br /><br />
 
 <a id="connect"></a>
