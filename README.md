@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-hero.svg" alt="ConstArt — UI/UX Designer, Creative Developer, and Digital Artist" width="94%" />
+  <img src="./assets/profile-hero.svg" alt="ConstArt — UI/UX Designer, Creative Developer, and Digital Artist" width="88%" />
 
   <h3>UI/UX Designer&nbsp;·&nbsp;Creative Developer&nbsp;·&nbsp;Digital Artist</h3>
 
@@ -20,7 +20,7 @@
 <a id="selected-work"></a>
 <h2 align="center">Selected Work</h2>
 
-<table align="center" width="88%">
+<table align="center" width="70%">
   <tr>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/3ConstArt3/BalanceSheet">01 | BalanceSheet</a></h3>
@@ -56,7 +56,7 @@
 <a id="development-tools"></a>
 <h2 align="center">Development Tools</h2>
 
-<table align="center" width="82%">
+<table align="center" width="70%">
   <thead>
     <tr>
       <th width="42%" align="center">Area</th>
@@ -88,7 +88,7 @@
 <a id="about-me"></a>
 <h2 align="center">About Me</h2>
 
-<table align="center" width="88%">
+<table align="center" width="70%">
   <tr>
     <td valign="top">
       <p>I am a multidisciplinary creator from Greece who sees <strong>art, science, and technology</strong> as parts of the same continuous language. My main interests revolve around UI/UX, geometry, computational art, and artificial intelligence—fields that continually inform one another.</p>
@@ -103,7 +103,7 @@
 <a id="current-work"></a>
 <h2 align="center">Current Work</h2>
 
-<table align="center" width="88%">
+<table align="center" width="70%">
   <tr>
     <td valign="top">
       <p>I am currently exploring <strong>Generative AI Art</strong> as a medium for speculative design and visual invention. My work envisions inventions, architectural systems, and objects for the future, developed through research, prompt design, and visual experimentation. Treating AI as a creative collaborator, I am building a visual archive that translates imagination and human needs into explorable concepts for future urban life.</p>
