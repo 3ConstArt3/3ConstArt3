@@ -19,6 +19,7 @@
 
 <a id="selected-work"></a>
 <h2 align="center">Selected Work</h2>
+<br />
 
 <table align="center" width="70%">
   <tr>
@@ -26,13 +27,11 @@
       <h3><a href="https://github.com/3ConstArt3/BalanceSheet">01 | BalanceSheet</a></h3>
       <p><strong>Interface Design · Responsive Frontend</strong></p>
       <p>A clean financial dashboard focused on information hierarchy, legibility, and multi-year asset tracking.</p>
-      <p><a href="https://github.com/3ConstArt3/BalanceSheet">View repository →</a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/3ConstArt3/ComplexFractals">02 | ComplexFractals</a></h3>
       <p><strong>Generative Art · Creative Coding</strong></p>
       <p>A visual system that transforms complex-number mathematics into evolving, color-driven compositions.</p>
-      <p><a href="https://github.com/3ConstArt3/ComplexFractals">View repository →</a></p>
     </td>
   </tr>
   <tr>
@@ -40,13 +39,11 @@
       <h3><a href="https://github.com/3ConstArt3/HyperSpace">03 | HyperSpace</a></h3>
       <p><strong>Computational Graphics · Interaction</strong></p>
       <p>An interactive Processing experiment that projects and rotates four-dimensional geometry into visible space.</p>
-      <p><a href="https://github.com/3ConstArt3/HyperSpace">View repository →</a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/3ConstArt3/Lexarithmos">04 | Lexarithmos</a></h3>
       <p><strong>Research Tool · Python</strong></p>
       <p>A modular application for exploring numerical relationships and patterns within the Greek language.</p>
-      <p><a href="https://github.com/3ConstArt3/Lexarithmos">View repository →</a></p>
     </td>
   </tr>
 </table>
@@ -55,6 +52,7 @@
 
 <a id="development-tools"></a>
 <h2 align="center">Development Tools</h2>
+<br />
 
 <table align="center" width="70%">
   <thead>
@@ -84,9 +82,9 @@
 </table>
 
 <br />
-
 <a id="about-me"></a>
 <h2 align="center">About Me</h2>
+<br />
 
 <table align="center" width="70%">
   <tr>
@@ -102,6 +100,7 @@
 
 <a id="current-work"></a>
 <h2 align="center">Current Work</h2>
+<br />
 
 <table align="center" width="70%">
   <tr>
@@ -111,17 +110,20 @@
   </tr>
 </table>
 
-<br />
+<br /><br />
 
 <a id="connect"></a>
 <h2 align="center">Connect</h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/constantine-artemiou-727206331/"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/3ConstArt3"><strong>GitHub</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:k.artemiou@outlook.com"><strong>Email</strong></a>
 </p>
 
-<br />
+<br /><br />
 
 <p align="center"><em>Designer first. Artist by instinct. Developer by capability.</em></p>
