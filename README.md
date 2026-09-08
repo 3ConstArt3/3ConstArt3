@@ -23,30 +23,58 @@
 <table align="center" width="88%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/3ConstArt3/BalanceSheet">01 | BalanceSheet</a></h3>
-      <h4>Interface Design · Responsive Frontend</h4>
-      <p>A clean financial dashboard focused on information hierarchy, legibility, and multi-year asset tracking.</p>
-      <h4><a href="https://github.com/3ConstArt3/BalanceSheet">View repository →</a></h4>
+      <h3>
+        <a href="https://github.com/3ConstArt3/TruthBase">01 | TruthBase</a>
+      </h3>
+      <h4>Greek Language · Numerical Exploration</h4>
+      <p>
+        Exploring numerical patterns in Greek words and phrases
+        through letter values, digit reduction, and permutations.
+      </p>
+      <h4>
+        <a href="https://github.com/3ConstArt3/TruthBase">Explore project →</a>
+      </h4>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/3ConstArt3/ComplexFractals">02 | ComplexFractals</a></h3>
-      <h4>Generative Art · Creative Coding</h4>
-      <p>A visual system that transforms complex-number mathematics into evolving, color-driven compositions.</p>
-      <h4><a href="https://github.com/3ConstArt3/ComplexFractals">View repository →</a></h4>
+      <h3>
+        <a href="https://github.com/3ConstArt3/FractalArt">02 | FractalArt</a>
+      </h3>
+      <h4>Recursive Geometry · Generative Art</h4>
+      <p>
+        Turning simple geometric rules into intricate polygonal
+        fractals through configurable patterns, recursion, and code.
+      </p>
+      <h4>
+        <a href="https://github.com/3ConstArt3/FractalArt">Explore project →</a>
+      </h4>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/3ConstArt3/HyperSpace">03 | HyperSpace</a></h3>
-      <h4>Computational Graphics · Interaction</h4>
-      <p>An interactive Processing experiment that projects and rotates four-dimensional geometry into visible space.</p>
-      <h4><a href="https://github.com/3ConstArt3/HyperSpace">View repository →</a></h4>
+      <h3>
+        <a href="https://github.com/3ConstArt3/FutureArc">03 | FutureArc</a>
+      </h3>
+      <h4>Speculative Design · Generative AI Art</h4>
+      <p>
+        Imagining future cities through AI-generated concepts,
+        with a visual archive connecting human needs, prompts, and architectural ideas.
+      </p>
+      <h4>
+        <a href="https://github.com/3ConstArt3/FutureArc">Explore project →</a>
+      </h4>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/3ConstArt3/Lexarithmos">04 | Lexarithmos</a></h3>
-      <h4>Research Tool · Python</h4>
-      <p>A modular application for exploring numerical relationships and patterns within the Greek language.</p>
-      <h4><a href="https://github.com/3ConstArt3/Lexarithmos">View repository →</a></h4>
+      <h3>
+        <a href="https://github.com/3ConstArt3/ThoughtLab">04 | ThoughtLab</a>
+      </h3>
+      <h4>Philosophical Quotes · AI-Assisted Curation</h4>
+      <p>
+        Organizing philosophical thoughts through curated quotes,
+        AI-assisted topic suggestions, and datasets for future text generation.
+      </p>
+      <h4>
+        <a href="https://github.com/3ConstArt3/ThoughtLab">Explore project →</a>
+      </h4>
     </td>
   </tr>
 </table>
