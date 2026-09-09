@@ -2,6 +2,8 @@
 
   <img src="./assets/profile-hero.svg" alt="ConstArt — UI/UX Designer, Creative Developer, and Digital Artist" width="94%" />
 
+  <br /><br />
+
   <h2>UI/UX Designer&nbsp;·&nbsp;Creative Developer&nbsp;·&nbsp;Digital Artist</h2>
 
   <h4>Designing expressive digital experiences where <strong>visual identity</strong>, <strong>interaction</strong>, and <strong>code</strong> meet.</h4>
