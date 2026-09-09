@@ -93,12 +93,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><h4>Languages &amp; Web Technologies</h4></td>
-      <td align="center"><h4><code>Python</code> · <code>Java</code> · <code>HTML</code> · <code>CSS</code> · <code>JS</code></h4></td>
+      <td align="center"><h4>Programming Languages</h4></td>
+      <td align="center"><h4><code>Python</code> · <code>HTML</code> · <code>CSS</code> · <code>JS</code></h4></td>
     </tr>
     <tr>
       <td align="center"><h4>Development Environments</h4></td>
-      <td align="center"><h4><code>PyCharm</code> · <code>Processing</code> · <code>VS Code</code> · <code>WebStorm</code></h4></td>
+      <td align="center"><h4><code>PyCharm</code> · <code>VS Code</code> · <code>WebStorm</code></h4></td>
     </tr>
     <tr>
       <td align="center"><h4>Design &amp; Visual Tools</h4></td>
@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <td align="center"><h4>Workflow &amp; Knowledge Tools</h4></td>
-      <td align="center"><h4><code>ChatGPT</code> · <code>Obsidian</code> · <code>GitHub Desktop</code></h4></td>
+      <td align="center"><h4><code>Obsidian</code> · <code>ChatGPT</code> · <code>GitHub Desktop</code></h4></td>
     </tr>
   </tbody>
 </table>
@@ -117,30 +117,16 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  My main interests revolve around UI/UX, geometry, computational art, and artificial intelligence—<br />
-  fields that continually inform one another.
+  My main interests revolve around UI/UX, computational art and artificial intelligence.<br />
 </p>
-
 <p align="center">
-  I am equally drawn to clarity and imagination: understanding how something works, how it feels,<br />
+  I am drawn both to clarity and imagination: understanding how something works, how it feels,<br />
   and what meaning it can carry. For me, technology is not an end in itself, but a creative material<br />
-  for turning abstract ideas into thoughtful and tangible experiences.
+  for turning abstract ideas into thoughtful and tangible experiences.<br />
 </p>
-
 <p align="center">
-  My work is guided by curiosity, experimentation, and a desire to contribute something meaningful,<br />
-  human, and enduring to the future.
-</p>
-
-<br /><br />
-
-<a id="current-work"></a>
-<h2 align="center">Current Work</h2>
-
-<p align="center">
-  My work envisions inventions, architectural systems, and objects for the future through research,<br />
-  prompt design, and visual experimentation. Treating AI as a creative collaborator, I am building<br />
-  a visual archive that translates imagination and human needs into explorable concepts for future urban life.
+  I am guided by curiosity, creativity, experimentation and a deep desire to contribute something<br />
+  meaningful, human and enduring to the future.
 </p>
 
 <br /><br />
