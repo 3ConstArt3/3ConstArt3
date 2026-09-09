@@ -26,10 +26,10 @@
       <h3>
         <a href="https://github.com/3ConstArt3/TruthBase">01 | TruthBase</a>
       </h3>
-      <h4>Greek Language · Numerical Exploration</h4>
+      <h4>Greek Language · Lexicological Exploration</h4>
       <p>
-        Exploring numerical patterns in Greek words and phrases
-        through letter values, digit reduction, and permutations.
+        Exploring thought patterns, philosophical ideas and truth, via Greek words
+        and phrases - through letter mapping, digit reduction, and permutations.
       </p>
       <h4>
         <a href="https://github.com/3ConstArt3/TruthBase">Explore project →</a>
@@ -39,10 +39,10 @@
       <h3>
         <a href="https://github.com/3ConstArt3/FractalArt">02 | FractalArt</a>
       </h3>
-      <h4>Recursive Geometry · Generative Art</h4>
+      <h4>Recursive Geometry · Computational Art</h4>
       <p>
-        Turning simple geometric rules into intricate polygonal
-        fractals through configurable patterns, recursion, and code.
+        Turning simple geometric rules into amazing recursive fractals,
+        through configurable patterns, recursion, and symmetry.
       </p>
       <h4>
         <a href="https://github.com/3ConstArt3/FractalArt">Explore project →</a>
@@ -54,10 +54,10 @@
       <h3>
         <a href="https://github.com/3ConstArt3/FutureArc">03 | FutureArc</a>
       </h3>
-      <h4>Speculative Design · Generative AI Art</h4>
+      <h4>Creative Design · Generative Art</h4>
       <p>
-        Imagining future cities through AI-generated concepts,
-        with a visual archive connecting human needs, prompts, and architectural ideas.
+        Designing the future through creative AI architectural concepts,
+        all in a visual archive connecting human needs with generative prompts.
       </p>
       <h4>
         <a href="https://github.com/3ConstArt3/FutureArc">Explore project →</a>
@@ -67,10 +67,10 @@
       <h3>
         <a href="https://github.com/3ConstArt3/ThoughtLab">04 | ThoughtLab</a>
       </h3>
-      <h4>Philosophical Quotes · AI-Assisted Curation</h4>
+      <h4>Philosophy · AI-Assisted Generation</h4>
       <p>
-        Organizing philosophical thoughts through curated quotes,
-        AI-assisted topic suggestions, and datasets for future text generation.
+        Adapting pretrained AI-models, to a collection of personal philosophical thoughts,
+        in order to create an AI-Philosopher that produces truth, via text generation.
       </p>
       <h4>
         <a href="https://github.com/3ConstArt3/ThoughtLab">Explore project →</a>
